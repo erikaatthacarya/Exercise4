@@ -1,0 +1,13 @@
+Pseudocode luas persegipanjang
+
+Algoritma : hitung_luas_persegipanjang
+{dibaca Panjang dan lebar dari piranti masukan. Hitunglah luas persegipanjang}! 
+
+Deklarasi :
+panjang, lebar, luas: int
+
+Deskripsi : 
+read panjang
+read lebar 
+luas = panjang * lebar 
+print luas

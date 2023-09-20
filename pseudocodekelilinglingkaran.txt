@@ -1,0 +1,12 @@
+Pseudocode keliling lingkaran
+
+Algoritma : hitung_keliling_lingkaran
+{dibaca Panjang dan lebar dari piranti masukan. Hitunglah keliling lingkaran}! 
+
+Deklarasi :
+phi, r, keliling: double
+
+Deskripsi : 
+read r(jari-jari)
+keliling = 2 * phi * r
+print keliling

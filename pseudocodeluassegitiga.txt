@@ -1,0 +1,14 @@
+Pseudocode luas segitiga
+
+Algoritma : hitung_luas_segitiga
+{dibaca Panjang dan lebar dari piranti masukan. Hitunglah luas segitiga}! 
+
+Deklarasi :
+alas, tinggi, sisi, luas: double
+
+Deskripsi : 
+read alas
+read tinggi 
+read sisi
+luas = phi * jariJari * jariJari
+print luas

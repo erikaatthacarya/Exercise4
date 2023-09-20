@@ -1,0 +1,16 @@
+Pseudocode keliling segitiga
+
+Algoritma : hitung_keliling_segitiga
+{dibaca Panjang dan lebar dari piranti masukan. Hitunglah keliling segitiga}! 
+
+Deklarasi :
+alas, tinggi, sisi, luas, keliling: double
+
+Deskripsi : 
+read alas
+read tinggi
+read sisi
+luas = 0.5 * alas * tinggi
+keliling = sisi * 3
+print luas
+print keliling
